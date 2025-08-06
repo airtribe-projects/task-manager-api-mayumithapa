@@ -18,5 +18,17 @@
   },
   "engines": {
     "node": ">= 18.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airtribe-projects/task-manager-api-mayumithapa.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/airtribe-projects/task-manager-api-mayumithapa/issues"
+  },
+  "homepage": "https://github.com/airtribe-projects/task-manager-api-mayumithapa#readme"
 }
